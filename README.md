@@ -1,6 +1,8 @@
 # Basic_Accept_Name
 Explanation of the COBOL program
+
 TL;DR
+
 The COBOL program ACCEPT-NAME prompts the user to enter their name, accepts the input, and displays a greeting message.
 
 Explanation
